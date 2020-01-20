@@ -12,3 +12,6 @@ Brandon Lee ()
 David Cloutier
 
 Exercise logs
+
+100 situps 
+20 pushups
